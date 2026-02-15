@@ -3,7 +3,7 @@
   "private": true,
   "version": "0.0.0",
   "type": "module",
-  "homepage": "https://structuredhardscapes.com/",
+  "homepage": "https://github.com/Wissem7155hack/Structured-hardscapes-LLC",
   "scripts": {
     "dev": "vite",
     "build": "vite build",

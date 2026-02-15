@@ -333,7 +333,7 @@ const ContactForm = () => {
               id="city"
               type="text"
               name="city"
-              placeholder="Denver"
+              placeholder="your city"
               className="w-full p-3 rounded-md text-gray-900 focus:outline-none focus:ring-2 focus:ring-green-500 text-base"
               required
             />
@@ -790,7 +790,7 @@ const AboutPreview = () => (
             {/* Unternehmensteil */}
             <div className="flex items-center gap-4 md:gap-6 p-4 md:p-6 bg-white/5 border border-white/10 rounded-sm mt-6 md:mt-8 backdrop-blur-sm hover:bg-white/10 transition-colors">
               <img
-                src={img5}
+                src={img25}
                 alt="Structured hardscapes LLC"
                 className="w-25 h-16 md:w-35 md:h-24 object-cover border-2 border-gold-500 shadow-md"
               />
